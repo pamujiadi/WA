@@ -1,11 +1,6 @@
 # Cinta
-BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
-------
-GET TOKEN :
-------
--
--
-Cara Install Bot Chucky :
+
+Cara Install Bot 
 ------
 
 Di Termux :
@@ -22,9 +17,9 @@ Di Termux :
 - Ketik -> `cd Chucky`
 - Ketik -> `python2 Chucky.py`
 
-Cara Menjalankan Bot Kembali :
+Cara Menjalankan Bot 
 
 Di Termux :
 
-- Ketik -> `cd Chucky`
-- Ketik -> `python2 Chucky.py`
+- Ketik -> `cd cinta`
+- Ketik -> `python2 cinta.py`
